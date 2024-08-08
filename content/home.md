@@ -6,5 +6,7 @@ cats:
     description: Философ
   - name: Эля
     description: Принцесса
+  - name: Котяра
+    description: Хороший
 ---
 Добро пожаловаь на мою личную страницу!
