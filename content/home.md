@@ -8,5 +8,7 @@ cats:
     description: Принцесса
   - name: Алекс
     description: Хороший
+  - name: Барсик
+    description: Красавец
 ---
 Добро пожаловаь на мою личную страницу!
