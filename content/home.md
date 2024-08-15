@@ -29,8 +29,8 @@ projects:
     stack:
       - name: React
         icon: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-      - name: TailwindCSS
-        icon: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+      - name: shadcn/ui
+        icon: https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white
       - name: NodeJS
         icon: https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
       - name: Express
@@ -53,6 +53,8 @@ projects:
         icon: https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black
       - icon: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
         name: SASS
+      - name: Figma
+        icon: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 skills:
   - name: Вёрстка
     description: Процесс вёрстки сайта вполняется с вниманием к деталям, в него
