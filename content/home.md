@@ -65,6 +65,11 @@ projects:
         icon: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
     description: Сайт-лендинг для организации разработанный с применением БЭМ-методологии
     image: img/cryptocorpat.png
+  - title: Лэндинг
+    description: Сайт-лендинг для курсов с применением БЭМ-методологии
+    preview: https://z1n1n85.github.io/psyhology-landing/
+    github: https://github.com/z1n1n85/psyhology-landing
+    image: img/psylanding.png
 skills:
   - name: Вёрстка
     description: Процесс вёрстки сайта вполняется с вниманием к деталям, в него
