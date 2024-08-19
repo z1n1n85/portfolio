@@ -78,7 +78,6 @@ projects:
         name: Wordpress
     description: Сайт ресторана с возможностью просмотреть меню, составить заказ для
       доставки и забронировать столик в ресторане
-    github: /
   - title: Сайт организации
     image: img/comfortforms.png
     preview: https://comfortforms.ru/
@@ -87,7 +86,6 @@ projects:
         icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
     description: Сайт организации с списком продукции, информацией о компании и
       производственном процессе
-    github: /
   - title: Сайт организации
     image: img/sdgroup.png
     preview: https://sdgroupspb.ru/
@@ -96,7 +94,6 @@ projects:
         icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
     description: Сайт компании с ассортиментом оборудования, дополнительной
       информацией и возможностью заказть аренду оборудования
-    github: /
   - title: Сайт организации
     preview: https://himsostav.ru/
     image: img/niks.png
@@ -105,7 +102,6 @@ projects:
         icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
     description: Сайт компании с детальным описанием продукции, корпоративными
       новостями и обратной связи
-    github: /
 skills:
   - name: Вёрстка
     description: Процесс вёрстки сайта вполняется с вниманием к деталям, в него
