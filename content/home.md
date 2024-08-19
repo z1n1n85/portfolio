@@ -37,11 +37,11 @@ projects:
         icon: https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
       - name: MongoDB
         icon: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-    description: Веб-приложение для учёта финансов на React и NodeJS с функциями
-      регистрации, добавления и удаления счетов, операций с этими счетами
-      (поступлений и трат).
+    description: BudgetBuddy — веб-приложение для учёта финансов на React и NodeJS с
+      функциями регистрации, добавления и удаления счетов, операций с этими
+      счетами (поступлений и трат).
   - title: Многостраничный сайт
-    image: img/sexeducation.jpg
+    image: img/sexeducation.png
     preview: https://z1n1n85.github.io/sex-education/
     github: https://github.com/z1n1n85/sex-education
     description: «Секс и другие шокирующие вопросы» — учебник по половому
@@ -55,6 +55,16 @@ projects:
         name: SASS
       - name: Figma
         icon: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+  - title: Лэндинг
+    github: https://github.com/z1n1n85/crypto-corp
+    preview: https://z1n1n85.github.io/crypto-corp/
+    stack:
+      - icon: https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white
+        name: Gulp
+      - name: SASS
+        icon: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+    description: Сайт-лендинг для организации разработанный с применением БЭМ-методологии
+    image: img/cryptocorpat.png
 skills:
   - name: Вёрстка
     description: Процесс вёрстки сайта вполняется с вниманием к деталям, в него
