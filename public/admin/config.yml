@@ -35,11 +35,12 @@ collections:
               name: "image"
               widget: "image"
               choose_url: true
-            - { label: "GitHub link", name: "github", widget: "string"}
-            - { label: "Preview link", name: "preview", widget: "string"}
+            - { label: "GitHub link", name: "github", widget: "string", required: false}
+            - { label: "Preview link", name: "preview", widget: "string", required: false}
             - label: 'Stack'
               name: "stack"
               widget: list
+              required: false
               fields:
                 - { label: "Name", name: "name", widget: "string"}
                 - { label: "Icon link", name: "icon", widget: "string"}
