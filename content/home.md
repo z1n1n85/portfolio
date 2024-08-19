@@ -70,12 +70,19 @@ projects:
     preview: https://z1n1n85.github.io/psyhology-landing/
     github: https://github.com/z1n1n85/psyhology-landing
     image: img/psylanding.png
+    stack:
+      - icon: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+        name: HTML5
+      - icon: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+        name: CSS3
   - title: Сайт ресторана
     image: img/baku.png
     preview: https://stariy-baku.com/
     stack:
       - icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
         name: Wordpress
+      - icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+        name: PHP
     description: Сайт ресторана с возможностью просмотреть меню, составить заказ для
       доставки и забронировать столик в ресторане
   - title: Сайт организации
@@ -84,6 +91,8 @@ projects:
     stack:
       - name: Wordpress
         icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+      - name: PHP
+        icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
     description: Сайт организации с списком продукции, информацией о компании и
       производственном процессе
   - title: Сайт организации
@@ -92,6 +101,8 @@ projects:
     stack:
       - name: Wordpress
         icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+      - name: PHP
+        icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
     description: Сайт компании с ассортиментом оборудования, дополнительной
       информацией и возможностью заказть аренду оборудования
   - title: Сайт организации
@@ -100,6 +111,8 @@ projects:
     stack:
       - name: Wordpress
         icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+      - name: PHP
+        icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
     description: Сайт компании с детальным описанием продукции, корпоративными
       новостями и обратной связи
 skills:
