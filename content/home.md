@@ -40,7 +40,7 @@ projects:
     description: BudgetBuddy — веб-приложение для учёта финансов на React и NodeJS с
       функциями регистрации, добавления и удаления счетов, операций с этими
       счетами (поступлений и трат).
-  - title: Многостраничный сайт
+  - title: Многостраничный сайт-учебник
     image: img/sexeducation.png
     preview: https://z1n1n85.github.io/sex-education/
     github: https://github.com/z1n1n85/sex-education
@@ -55,7 +55,7 @@ projects:
         name: SASS
       - name: Figma
         icon: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-  - title: Лэндинг
+  - title: Лэндинг для организации
     github: https://github.com/z1n1n85/crypto-corp
     preview: https://z1n1n85.github.io/crypto-corp/
     stack:
@@ -65,11 +65,47 @@ projects:
         icon: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
     description: Сайт-лендинг для организации разработанный с применением БЭМ-методологии
     image: img/cryptocorpat.png
-  - title: Лэндинг
+  - title: Лэндинг для продажи курсов
     description: Сайт-лендинг для курсов с применением БЭМ-методологии
     preview: https://z1n1n85.github.io/psyhology-landing/
     github: https://github.com/z1n1n85/psyhology-landing
     image: img/psylanding.png
+  - title: Сайт ресторана
+    image: img/baku.png
+    preview: https://stariy-baku.com/
+    stack:
+      - icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+        name: Wordpress
+    description: Сайт ресторана с возможностью просмотреть меню, составить заказ для
+      доставки и забронировать столик в ресторане
+    github: .
+  - title: Сайт организации
+    image: img/comfortforms.png
+    preview: https://comfortforms.ru/
+    stack:
+      - name: Wordpress
+        icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+    description: Сайт организации с списком продукции, информацией о компании и
+      производственном процессе
+    github: .
+  - title: Сайт организации
+    image: img/sdgroup.png
+    preview: https://sdgroupspb.ru/
+    stack:
+      - name: Wordpress
+        icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+    description: Сайт компании с ассортиментом оборудования, дополнительной
+      информацией и возможностью заказть аренду оборудования
+    github: .
+  - title: Сайт организации
+    preview: https://himsostav.ru/
+    image: img/niks.png
+    stack:
+      - name: Wordpress
+        icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+    description: Сайт компании с детальным описанием продукции, корпоративными
+      новостями и обратной связи
+    github: .
 skills:
   - name: Вёрстка
     description: Процесс вёрстки сайта вполняется с вниманием к деталям, в него
