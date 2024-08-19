@@ -13,7 +13,7 @@ const WorkCard = ({ project }) => {
         ></img>
       </div>
       <div className="flex mt-3 gap-1 flex-wrap">
-        {project.stack.map((item, index) => (
+        {project.stack && project.stack.map((item, index) => (
           <img key={index} alt={item.name} src={item.icon} />
         ))}
       </div>
