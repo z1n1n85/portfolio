@@ -3,12 +3,14 @@ title: z1n1n85
 header_first_line: Привет,
 header_second_line: меня зовут Зинин Илья,
 header_third_line: я веб-разработчик.
-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a
-  posuere nisi, id consectetur turpis. Sed feugiat libero vitae mauris tincidunt
-  commodo. Fusce eget lorem enim. Sed quis ante congue, ullamcorper dui et,
-  ornare nisi. Nam malesuada, tellus in luctus iaculis, urna odio porta ante, ut
-  finibus justo est at justo. Etiam sed sodales nibh. Aliquam nisl risus, luctus
-  vitae venenatis at, mattis a risus.
+about: >-
+  Мой стаж в сфере разработки сайтов равен двум годам. Сейчас я работаю на
+  фрилансе над большими проектами с несколькими постоянными заказчиками и
+  активно ищу работу fronted-разработчика. В своих проектах я стремлюсь сделать
+  качественный продукт, который будет удобен пользователю и будет приносить
+  прибыль заказчику.
+
+  В свободное время я люблю разрабатывать дизайн-системы, верстать и вручную делать книги.
 portrait: ./img/portrait.jpg
 socials:
   - title: GitHub
