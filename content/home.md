@@ -38,14 +38,53 @@ projects:
       - name: MongoDB
         icon: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
     description: BudgetBuddy — веб-приложение для учёта финансов на React и NodeJS с
-      функциями регистрации, добавления и удаления счетов, операций с этими
-      счетами (поступлений и трат).
+      функциями регистрации пользователей, добавления и удаления счетов,
+      операций с этими счетами (поступлений и трат).
+  - title: Сайт «Комфортформс»
+    image: img/comfortforms.png
+    preview: https://comfortforms.ru/
+    stack:
+      - name: Wordpress
+        icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+      - name: PHP
+        icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+    description: Сайт с списком продукции, информацией о компании и производственном
+      процессе
+  - title: Сайт «SD GROUP»
+    image: img/sdgroup.png
+    preview: https://sdgroupspb.ru/
+    stack:
+      - name: Wordpress
+        icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+      - name: PHP
+        icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+    description: Сайт компании с ассортиментом оборудования, дополнительной
+      информацией и возможностью заказть аренду оборудования
+  - title: Сайт «НИКС»
+    preview: https://himsostav.ru/
+    image: img/niks.png
+    stack:
+      - name: Wordpress
+        icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+      - name: PHP
+        icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+    description: Сайт компании с детальным описанием продукции, корпоративными
+      новостями и обратной связи
+  - title: Сайт ресторана «Старый Баку»
+    image: img/baku.png
+    preview: https://stariy-baku.com/
+    stack:
+      - icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+        name: Wordpress
+      - icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+        name: PHP
+    description: Сайт ресторана с возможностью просмотреть меню, составить заказ для
+      доставки и забронировать столик в ресторане
   - title: Многостраничный сайт-учебник
     image: img/sexeducation.png
     preview: https://z1n1n85.github.io/sex-education/
     github: https://github.com/z1n1n85/sex-education
-    description: «Секс и другие шокирующие вопросы» — учебник по половому
-      образованию, ориентированный на учащихся средней и старшей школы.
+    description: Учебник по половому образованию с ярким, разработанным с нуля дизайном.
     stack:
       - icon: https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white
         name: Gulp
@@ -75,49 +114,23 @@ projects:
         name: HTML5
       - icon: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
         name: CSS3
-  - title: Сайт ресторана
-    image: img/baku.png
-    preview: https://stariy-baku.com/
-    stack:
-      - icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
-        name: Wordpress
-      - icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-        name: PHP
-    description: Сайт ресторана с возможностью просмотреть меню, составить заказ для
-      доставки и забронировать столик в ресторане
-  - title: Сайт организации
-    image: img/comfortforms.png
-    preview: https://comfortforms.ru/
-    stack:
-      - name: Wordpress
-        icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
-      - name: PHP
-        icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-    description: Сайт организации с списком продукции, информацией о компании и
-      производственном процессе
-  - title: Сайт организации
-    image: img/sdgroup.png
-    preview: https://sdgroupspb.ru/
-    stack:
-      - name: Wordpress
-        icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
-      - name: PHP
-        icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-    description: Сайт компании с ассортиментом оборудования, дополнительной
-      информацией и возможностью заказть аренду оборудования
-  - title: Сайт организации
-    preview: https://himsostav.ru/
-    image: img/niks.png
-    stack:
-      - name: Wordpress
-        icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
-      - name: PHP
-        icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-    description: Сайт компании с детальным описанием продукции, корпоративными
-      новостями и обратной связи
 skills:
   - name: Вёрстка
-    description: Процесс вёрстки сайта вполняется с вниманием к деталям, в него
-      входит качественный, плавный адаптив на экраны всех размеров,
-      семантическое использование элементов и т.д.
+    description: Создаю сайты кросс-браузерными,  адаптивными, с использованием
+      семантически верных тэгов, доступными для людей с повышенными
+      потребностями. Владею БЭМ-методологией, препроцессорами SCSS (SASS) и Pug,
+      а так же библиотеками Bootstrap 5 и TailwindCSS
+  - name: Скрипты
+    description: Пишу скрипты на JavaScript, jQuery и PHP. Есть опыт работы с React,
+      NodeJS, Express. В работе над большими проектами для оптимизации процесса
+      разработки использую Gulp
+  - name: Дизайн
+    description: "Знаком с основами теории дизайна. Имею опыт создания макетов
+      сайтов в Figma, книжной верстки в InDesign. Владению программами, в
+      которых может быть разработан дизайн (или компоненты дизайна) сайта:
+      Figma, Photoshop, Illustrator, InDesign"
+  - name: Soft
+    description: В процессе работы соблюдаю обязательства по времени, объему и
+      качеству выполнения работы, стремлюсь к открытому и комфортному общению с
+      коллегами
 ---
