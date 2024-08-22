@@ -16,4 +16,4 @@ npm run dev
 ~~~
 npm run build
 ~~~
-Чтобы повторить публикацию сайта с использованием Netifly и GitHub следуйте инструкциям из документации Decap https://decapcms.org/docs/nextjs/#publishing-to-github-and-netlify
+Чтобы повторить публикацию сайта с использованием Netlifly и GitHub следуйте инструкциям из документации Decap https://decapcms.org/docs/nextjs/#publishing-to-github-and-netlify
