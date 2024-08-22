@@ -23,6 +23,21 @@ socials:
   - title: Email
     link: mailto:z1n1n85.work@gmail.com
 projects:
+  - title: Этот сайт    ^_^
+    image: img/portfolio.png
+    preview: ""
+    stack:
+      - icon: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+        name: React
+      - name: NextJS
+        icon: https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+      - icon: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+        name: TailwindCSS
+      - icon: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+        name: Netlify
+    description: Портфолио разработчика с админкой, с использованием static site
+      generation & serverless CMS Decap
+    github: https://github.com/z1n1n85/portfolio
   - title: Веб-приложение для учёта финансов
     image: ./img/budgetbuddy.png
     github: https://github.com/z1n1n85/finance-app
@@ -41,16 +56,6 @@ projects:
     description: BudgetBuddy — веб-приложение для учёта финансов на React и NodeJS с
       функциями регистрации пользователей, добавления и удаления счетов,
       операций с этими счетами (поступлений и трат).
-  - title: Сайт «Комфортформс»
-    image: img/comfortforms.png
-    preview: https://comfortforms.ru/
-    stack:
-      - name: Wordpress
-        icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
-      - name: PHP
-        icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-    description: Сайт с списком продукции, информацией о компании и производственном
-      процессе
   - title: Сайт «SD GROUP»
     image: img/sdgroup.png
     preview: https://sdgroupspb.ru/
