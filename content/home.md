@@ -10,7 +10,7 @@ about: >-
   пользователю и выгодный заказчику.
 
   В свободное время я разрабатываю дизайн-системы, верстаю и вручную делаю книги.
-portrait: ./img/portrait.jpg
+portrait: img/photo_2024-09-03_23-17-38.jpg
 socials:
   - title: GitHub
     link: https://github.com/z1n1n85
