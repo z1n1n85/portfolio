@@ -1,7 +1,7 @@
 ---
 title: z1n1n85
-header_first_line: Здравствуйте,
-header_second_line: меня зовут Зинин Илья,
+header_first_line: Здравствуйте!
+header_second_line: Меня зовут Зинин Илья,
 header_third_line: я веб-разработчик.
 about: >-
   На данный момент я являюсь фрилансером и работаю с несколькими постоянными
