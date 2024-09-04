@@ -9,7 +9,7 @@ about: >-
   над проектами я ставлю своим главным приоритетом создание качественного
   продукта, удобного пользователю и выгодного заказчику.
 
-  Помимо моей основной деятельноти, в сферу моих интересов входят дизайн, а также верстка и ручное изготовление книг.
+  Помимо моей основной деятельноти, в сферу моих интересов входят дизайн, а также верстка и ручное изготовление книг
 portrait: img/photo_2024-09-03_23-17-38.jpg
 socials:
   - title: GitHub
@@ -35,8 +35,8 @@ projects:
         name: TailwindCSS
       - icon: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
         name: Netlify
-    description: Портфолио разработчика с админкой, с использованием static site
-      generation & serverless CMS Decap
+    description: Портфолио разработчика с админ панелью, выполненное с
+      использованием static site generation & serverless CMS Decap
     github: https://github.com/z1n1n85/portfolio
   - title: Веб-приложение для учёта финансов
     image: ./img/budgetbuddy.png
@@ -53,9 +53,9 @@ projects:
         icon: https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
       - name: MongoDB
         icon: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-    description: BudgetBuddy — веб-приложение для учёта финансов на React и NodeJS с
-      функциями регистрации пользователей, добавления и удаления счетов,
-      операций с этими счетами (поступлений и трат).
+    description: BudgetBuddy — веб-приложение для учёта финансов, разработанное на
+      React и NodeJS, обладающее функциями регистрации пользователей, добавления
+      и удаления счетов и операций с данными счетами (поступлений и трат)
   - title: Сайт «SD GROUP»
     image: img/sdgroup.png
     preview: https://sdgroupspb.ru/
@@ -64,8 +64,8 @@ projects:
         icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
       - name: PHP
         icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-    description: Сайт компании с ассортиментом оборудования, дополнительной
-      информацией и возможностью заказть аренду оборудования
+    description: Сайт «SD GROUP», демонстрирующий ассортимент оборудования для
+      аренды и предоставляющий дополнительную информацию о компании
   - title: Сайт «НИКС»
     preview: https://himsostav.ru/
     image: img/niks.png
@@ -74,8 +74,8 @@ projects:
         icon: https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
       - name: PHP
         icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-    description: Сайт компании с детальным описанием продукции, корпоративными
-      новостями и обратной связи
+    description: Сайт «НИКС» с детальным описанием продукции компании, также
+      содержащий корпоративные новости и функцию обратной связи
   - title: Сайт ресторана «Старый Баку»
     image: img/baku.png
     preview: https://stariy-baku.com/
@@ -84,8 +84,8 @@ projects:
         name: Wordpress
       - icon: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
         name: PHP
-    description: Сайт ресторана с возможностью просмотреть меню, составить заказ для
-      доставки и забронировать столик в ресторане
+    description: "Сайт ресторана «Старый Баку» с возможностью просмотра меню,
+      составления заказа для доставки и бронированием столика "
   - title: Многостраничный сайт-учебник
     image: img/sexeducation.png
     preview: https://z1n1n85.github.io/sex-education/
