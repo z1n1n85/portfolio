@@ -38,7 +38,7 @@ projects:
     description: Портфолио разработчика с админ панелью, выполненное с
       использованием static site generation & serverless CMS Decap
     github: https://github.com/z1n1n85/portfolio
-  - title: Веб-приложение для учёта финансов
+  - title: Веб-приложение BudgetBuddy
     image: ./img/budgetbuddy.png
     github: https://github.com/z1n1n85/finance-app
     preview: https://budgetbuddy-site.netlify.app/
@@ -53,9 +53,9 @@ projects:
         icon: https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
       - name: MongoDB
         icon: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-    description: BudgetBuddy — веб-приложение для учёта финансов, разработанное на
-      React и NodeJS, обладающее функциями регистрации пользователей, добавления
-      и удаления счетов и операций с данными счетами (поступлений и трат)
+    description: Веб-приложение для учёта финансов, разработанное на React и NodeJS,
+      обладающее функциями регистрации пользователей, добавления и удаления
+      счетов и операций с данными счетами (поступлений и трат)
   - title: Сайт «SD GROUP»
     image: img/sdgroup.png
     preview: https://sdgroupspb.ru/
@@ -86,11 +86,12 @@ projects:
         name: PHP
     description: "Сайт ресторана «Старый Баку» с возможностью просмотра меню,
       составления заказа для доставки и бронированием столика "
-  - title: Многостраничный сайт-учебник
+  - title: Сайт-учебник «Секс и другие шокирующие вопросы»
     image: img/sexeducation.png
     preview: https://z1n1n85.github.io/sex-education/
     github: https://github.com/z1n1n85/sex-education
-    description: Учебник по половому образованию с ярким, разработанным с нуля дизайном.
+    description: Многостраничный сайт-учебник по половому образованию, создание
+      которого включало в себя в том числе разработку дизайна
     stack:
       - icon: https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white
         name: Gulp
@@ -108,10 +109,11 @@ projects:
         name: Gulp
       - name: SASS
         icon: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-    description: Сайт-лендинг для организации разработанный с применением БЭМ-методологии
+    description: Сайт-лэндинг для организации, выполненный с применением БЭМ-методологии
     image: img/cryptocorpat.png
   - title: Лэндинг для продажи курсов
-    description: Сайт-лендинг для курсов с применением БЭМ-методологии
+    description: Сайт-лендинг для заказчицы, занимающейся продажей курсов,
+      разработнный с применением БЭМ-методологии
     preview: https://z1n1n85.github.io/psyhology-landing/
     github: https://github.com/z1n1n85/psyhology-landing
     image: img/psylanding.png
